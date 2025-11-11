@@ -1,3 +1,7 @@
+### Paundra Pujo Darmawan - 5027241008
+
+Perhitungan VLSM dan CIDR serta topologi berada di file excel. Untuk subnettingnya dapat menggunakan step dibawah ini.
+
 1. VLAN Setup di S1
 
 ```sh
